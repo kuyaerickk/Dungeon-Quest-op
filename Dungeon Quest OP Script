@@ -241,7 +241,7 @@ getgenv().Settings = {
  
     CustomUI = {
         Enabled = false,
-        Name = "Spooder > MRob",
+        Name = "Itzerickx0 > MRob",
         Level = "1337",
         EXP = "1337",
         HP = "1337",
